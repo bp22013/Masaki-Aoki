@@ -1,2 +1,0 @@
-# Masaki-Aoki
-Readme用
